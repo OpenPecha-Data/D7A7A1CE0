@@ -42,14 +42,14 @@ annotations:
     reference: ''
     span:
       start: 6103
-      end: 6934
+      end: 6928
     note_ref: f17cfcbb9a374f19900d1a6ad3709002
   f17cfcbb9a374f19900d1a6ad3709002:
     imgnum: 272
     reference: ''
     span:
-      start: 6936
-      end: 7453
+      start: 6930
+      end: 7447
   0b295765778a48349e02f95bc791eb28:
     imgnum: 273
     reference: ''
